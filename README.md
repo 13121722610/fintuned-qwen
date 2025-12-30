@@ -37,7 +37,7 @@ fintuned-qwen/
 ├── medical_web_app.py           # Web 应用主程序  
 ├── requirements.txt             # Python 依赖包  
 
-注：由于优化后的数据集和微调后的模型大小过大，因此没有上传到github。  
+注：由于优化后的数据集和微调后的模型大小过大，因此没有上传到github，但是优化后的数据集已经放入提交课程的压缩包中。
 
 # 🚀 快速开始
 
